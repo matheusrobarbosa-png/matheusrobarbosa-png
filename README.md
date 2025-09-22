@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Sobre mim
+---
 
-<!--
-**matheusrobarbosa-png/matheusrobarbosa-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Um pouco sobre mim:
+- 🌱 Atualmente aprendendo **Kotlin** e **Desenvolvimento Web**  
+- 💻 Estagiário de *Suporte Técnico.*  
+- 🤝 Aberto a colaborar em projetos de **automação, sistemas web e mobile**  
+- 📚 Interesses: **LGPD, Infraestrutura de Redes e boas práticas em TI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Como falar comigo:
+- ✉️ Email: *matheusrobarbosa@gmail.com*  
+- 💼 LinkedIn: Matheus Barbosa www.linkedin.com/in/matheus-barbosadev  
+- 🐦 Instagram: @matheusroberto21 https://www.instagram.com/matheusroberto21
+
+---
+
+## ⚡ Curiosidades:
+- 📦 Já trabalhei nos **Correios** como jovem aprendiz e temporário  
+- 🧑‍💼 Experiência administrativa no **Lar dos Velhos Frederico Ozanam**  
+- 🙌 Envolvido em atividades sociais e comunitárias, como **acólitos, conferências e pastorais**
+  
+---
+-  Obrigado por visitar meu perfil!   
